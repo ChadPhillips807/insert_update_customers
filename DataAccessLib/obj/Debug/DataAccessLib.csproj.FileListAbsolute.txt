@@ -1,0 +1,5 @@
+E:\_CSharp_Projects\GitHub\CustomerDetails\DataAccessLib\bin\Debug\DataAccessLib.dll
+E:\_CSharp_Projects\GitHub\CustomerDetails\DataAccessLib\bin\Debug\DataAccessLib.pdb
+E:\_CSharp_Projects\GitHub\CustomerDetails\DataAccessLib\obj\Debug\DataAccessLib.dll
+E:\_CSharp_Projects\GitHub\CustomerDetails\DataAccessLib\obj\Debug\DataAccessLib.pdb
+E:\_CSharp_Projects\GitHub\CustomerDetails\DataAccessLib\obj\Debug\DataAccessLib.csprojResolveAssemblyReference.cache

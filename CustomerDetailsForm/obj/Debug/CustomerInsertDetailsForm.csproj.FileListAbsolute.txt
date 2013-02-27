@@ -1,0 +1,10 @@
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerDetailsForm\bin\Debug\CustomerDetailsForm.exe
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerDetailsForm\bin\Debug\CustomerDetailsForm.pdb
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerDetailsForm\bin\Debug\DataAccessLib.dll
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerDetailsForm\bin\Debug\DataAccessLib.pdb
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerDetailsForm\obj\Debug\CustomerInsertDetailsForm.csprojResolveAssemblyReference.cache
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerDetailsForm\obj\Debug\CustomerDetailsForm.customerEntryForm.resources
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerDetailsForm\obj\Debug\CustomerDetailsForm.Properties.Resources.resources
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerDetailsForm\obj\Debug\CustomerInsertDetailsForm.csproj.GenerateResource.Cache
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerDetailsForm\obj\Debug\CustomerDetailsForm.exe
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerDetailsForm\obj\Debug\CustomerDetailsForm.pdb

@@ -1,0 +1,11 @@
+E:\_CSharp_Projects\GitHub\CustomerDetails\UpdateCustomerForm\bin\Debug\UpdateCustomerForm.exe.config
+E:\_CSharp_Projects\GitHub\CustomerDetails\UpdateCustomerForm\bin\Debug\UpdateCustomerForm.exe
+E:\_CSharp_Projects\GitHub\CustomerDetails\UpdateCustomerForm\bin\Debug\UpdateCustomerForm.pdb
+E:\_CSharp_Projects\GitHub\CustomerDetails\UpdateCustomerForm\obj\Debug\UpdateCustomerForm.UpdateCustFrm.resources
+E:\_CSharp_Projects\GitHub\CustomerDetails\UpdateCustomerForm\obj\Debug\UpdateCustomerForm.Properties.Resources.resources
+E:\_CSharp_Projects\GitHub\CustomerDetails\UpdateCustomerForm\obj\Debug\UpdateCustomerForm.csproj.GenerateResource.Cache
+E:\_CSharp_Projects\GitHub\CustomerDetails\UpdateCustomerForm\obj\Debug\UpdateCustomerForm.exe
+E:\_CSharp_Projects\GitHub\CustomerDetails\UpdateCustomerForm\obj\Debug\UpdateCustomerForm.pdb
+E:\_CSharp_Projects\GitHub\CustomerDetails\UpdateCustomerForm\bin\Debug\DataAccessLib.dll
+E:\_CSharp_Projects\GitHub\CustomerDetails\UpdateCustomerForm\bin\Debug\DataAccessLib.pdb
+E:\_CSharp_Projects\GitHub\CustomerDetails\UpdateCustomerForm\obj\Debug\UpdateCustomerForm.csprojResolveAssemblyReference.cache

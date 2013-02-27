@@ -1,0 +1,15 @@
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerForm\bin\Debug\CustomerForm.exe.config
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerForm\bin\Debug\CustomerForm.exe
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerForm\bin\Debug\CustomerForm.pdb
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerForm\bin\Debug\CustomerDetailsForm.exe
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerForm\bin\Debug\DataAccessLib.dll
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerForm\bin\Debug\CustomerDetailsForm.pdb
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerForm\bin\Debug\DataAccessLib.pdb
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerForm\obj\Debug\InsertOrUpdateForm.csprojResolveAssemblyReference.cache
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerForm\obj\Debug\CustomerForm.Properties.Resources.resources
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerForm\obj\Debug\InsertOrUpdateForm.csproj.GenerateResource.Cache
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerForm\obj\Debug\CustomerForm.exe
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerForm\obj\Debug\CustomerForm.pdb
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerForm\obj\Debug\CustomerForm.chooseForm.resources
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerForm\bin\Debug\UpdateCustomerForm.exe
+E:\_CSharp_Projects\GitHub\CustomerDetails\CustomerForm\bin\Debug\UpdateCustomerForm.pdb
